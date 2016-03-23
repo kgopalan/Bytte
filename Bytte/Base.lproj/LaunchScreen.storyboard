@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9532" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="3yj-D4-U7D">
+            <objects>
+                <viewController storyboardIdentifier="LaunchScreen" id="Pxf-W6-B1k" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Aw3-m4-250"/>
+                        <viewControllerLayoutGuide type="bottom" id="ShU-vI-d2v"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="xmC-92-k8q">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash-screen" translatesAutoresizingMaskIntoConstraints="NO" id="Uhp-YW-x08">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Uhp-YW-x08" firstAttribute="leading" secondItem="xmC-92-k8q" secondAttribute="leading" id="9gv-7I-eEw"/>
+                            <constraint firstAttribute="trailing" secondItem="Uhp-YW-x08" secondAttribute="trailing" id="AQ7-hm-EHh"/>
+                            <constraint firstAttribute="bottom" secondItem="Uhp-YW-x08" secondAttribute="bottom" id="YoL-Fi-AP2"/>
+                            <constraint firstItem="Uhp-YW-x08" firstAttribute="top" secondItem="xmC-92-k8q" secondAttribute="top" id="f3s-ap-v7m"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="GAZ-l6-HHn" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="484" y="359"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="splash-screen" width="640" height="1136"/>
+    </resources>
+</document>

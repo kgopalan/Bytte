@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B0D3A0E-F95D-4F67-82F5-7AA2ABEB160A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bytte</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>698A9D38DD7B937C992A5B4335E366CB80DC8A9F</key>
+		<string>https://github.com/laurenhasson/Bytte.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bytte/Bytte.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>698A9D38DD7B937C992A5B4335E366CB80DC8A9F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/laurenhasson/Bytte.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>698A9D38DD7B937C992A5B4335E366CB80DC8A9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>698A9D38DD7B937C992A5B4335E366CB80DC8A9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bytte</string>
+		</dict>
+	</array>
+</dict>
+</plist>
